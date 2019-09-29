@@ -1,0 +1,17 @@
+make -j4,4为电脑和核数除以2
+1 git clone https://github.com/google/googletest
+//cmake .. -(制定一个编译器)
+
+STL库,两个container:
+
+vector（T）T是母版数组，遍历的话放在这个里效率比较高
+不要用太多动态申请内存，如果事先知道要用多少内存，要reserve提前申请，少用new和delete
+deque（T）不是连续的数组，
+
+
+nano.gitignore
+*build*
+
+
+作业有打开一个视频，显示二值化后的窗口
+cmake指定编译器
