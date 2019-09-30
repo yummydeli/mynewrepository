@@ -1,0 +1,3 @@
+/home/ming/git_yummy/learn1/111/build/CMakeFiles/rebuild_cache.dir
+/home/ming/git_yummy/learn1/111/build/CMakeFiles/main.dir
+/home/ming/git_yummy/learn1/111/build/CMakeFiles/edit_cache.dir
