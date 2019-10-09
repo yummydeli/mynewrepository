@@ -1,0 +1,3 @@
+/home/ming/git_yummy/l3/opencv/CMakeFiles/rebuild_cache.dir
+/home/ming/git_yummy/l3/opencv/CMakeFiles/cv.dir
+/home/ming/git_yummy/l3/opencv/CMakeFiles/edit_cache.dir
