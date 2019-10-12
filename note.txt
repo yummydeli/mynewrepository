@@ -23,6 +23,7 @@ cmake指定编译器
 echo "# mynewrepository" >> README.md
 git init
 git add README.md
+
 git commit -m "first commit"
 git remote add origin https://github.com/yummydeli/mynewrepository.git
 git push -u origin master
@@ -36,3 +37,8 @@ git push -u origin master
 …or import code from another repository
 
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+
+
+
+查看自己的opencv版本：pkg-config --modversion opencv
+
