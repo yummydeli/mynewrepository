@@ -1,0 +1,8 @@
+//
+// Created by ming on 2019/10/21.
+//
+
+#ifndef OPENCV_TEST_COMPAREGRAY_H
+#define OPENCV_TEST_COMPAREGRAY_H
+
+#endif //OPENCV_TEST_COMPAREGRAY_H
