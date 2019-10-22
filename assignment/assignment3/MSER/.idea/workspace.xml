@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Opencv_test" targetName="Opencv_test" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e5b4522f-7c06-4c7e-8e64-029a843913d6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../learning/MSER/RGBvalue.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../learning/MSER/RGBvalue.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../learning/MSER/test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../learning/classifier/classifier.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../homework1/assignment_liyamei/follyassinment/double-conversion" beforeDir="false" afterPath="$PROJECT_DIR$/../../../homework1/assignment_liyamei/follyassinment/double-conversion" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l4/cmake-build-debug/CMakeFiles/untitled.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l4/cmake-build-debug/CMakeFiles/untitled.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l4/cmake-build-debug/untitled" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l4/cmake-build-debug/untitled" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l5/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l5/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l5/cmake-build-debug/CMakeFiles/3.14.5/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l5/cmake-build-debug/CMakeFiles/3.14.5/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l5/cmake-build-debug/CMakeFiles/3.14.5/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l5/cmake-build-debug/CMakeFiles/3.14.5/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l5/cmake-build-debug/CMakeFiles/3.14.5/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l5/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l5/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l5/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l5/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l5/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l5/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l5/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l5/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l5/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l5/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l5/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l5/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l5/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l5/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l5/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l5/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l5/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l5/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l5/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l5/cmake-build-debug/CMakeFiles/l5.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l5/cmake-build-debug/CMakeFiles/l5.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l5/cmake-build-debug/CMakeFiles/l5.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l5/cmake-build-debug/CMakeFiles/l5.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l5/cmake-build-debug/CMakeFiles/l5.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l5/cmake-build-debug/CMakeFiles/l5.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l5/cmake-build-debug/CMakeFiles/l5.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l5/cmake-build-debug/CMakeFiles/l5.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l5/cmake-build-debug/CMakeFiles/l5.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l5/cmake-build-debug/CMakeFiles/l5.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l5/cmake-build-debug/CMakeFiles/l5.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l5/cmake-build-debug/CMakeFiles/l5.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l5/cmake-build-debug/CMakeFiles/l5.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l5/cmake-build-debug/CMakeFiles/l5.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l5/cmake-build-debug/CMakeFiles/l5.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l5/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l5/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l5/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l5/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l5/cmake-build-debug/l5.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l5/cmake-build-debug/l5.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l7/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l7/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l7/cmake-build-debug/CMakeFiles/3.14.5/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l7/cmake-build-debug/CMakeFiles/3.14.5/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l7/cmake-build-debug/CMakeFiles/3.14.5/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l7/cmake-build-debug/CMakeFiles/3.14.5/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l7/cmake-build-debug/CMakeFiles/3.14.5/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l7/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l7/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l7/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l7/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l7/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l7/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l7/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l7/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l7/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l7/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l7/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l7/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l7/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l7/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l7/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l7/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l7/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l7/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l7/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l7/cmake-build-debug/CMakeFiles/l7.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l7/cmake-build-debug/CMakeFiles/l7.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l7/cmake-build-debug/CMakeFiles/l7.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l7/cmake-build-debug/CMakeFiles/l7.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l7/cmake-build-debug/CMakeFiles/l7.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l7/cmake-build-debug/CMakeFiles/l7.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l7/cmake-build-debug/CMakeFiles/l7.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l7/cmake-build-debug/CMakeFiles/l7.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l7/cmake-build-debug/CMakeFiles/l7.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l7/cmake-build-debug/CMakeFiles/l7.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l7/cmake-build-debug/CMakeFiles/l7.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l7/cmake-build-debug/CMakeFiles/l7.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l7/cmake-build-debug/CMakeFiles/l7.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l7/cmake-build-debug/CMakeFiles/l7.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l7/cmake-build-debug/CMakeFiles/l7.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l7/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l7/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l7/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l7/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l7/cmake-build-debug/l7.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l7/cmake-build-debug/l7.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeFiles/3.10.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeFiles/3.10.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeFiles/3.10.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeFiles/3.10.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeFiles/3.10.2/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeFiles/3.10.2/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeFiles/3.14.5/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeFiles/3.14.5/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeFiles/3.14.5/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeFiles/3.14.5/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeFiles/3.14.5/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeFiles/Progress/1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeFiles/Progress/count.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeFiles/l8.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeFiles/l8.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeFiles/l8.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeFiles/l8.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeFiles/l8.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeFiles/l8.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeFiles/l8.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeFiles/l8.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeFiles/l8.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeFiles/l8.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeFiles/l8.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/CMakeFiles/l8.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/l8.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning/l8/cmake-build-debug/l8.cbp" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SFDn8XZxRZH0M1QX5qYAT8Txgy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../classifier" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Opencv_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Opencv_test" TARGET_NAME="Opencv_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Opencv_test" RUN_TARGET_NAME="Opencv_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5b4522f-7c06-4c7e-8e64-029a843913d6" name="Default Changelist" comment="" />
+      <created>1571150613610</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571150613610</updated>
+      <workItem from="1571150615078" duration="3468000" />
+      <workItem from="1571198632271" duration="17275000" />
+      <workItem from="1571216766324" duration="14036000" />
+      <workItem from="1571279786268" duration="262000" />
+      <workItem from="1571280404503" duration="4343000" />
+      <workItem from="1571305240156" duration="665000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

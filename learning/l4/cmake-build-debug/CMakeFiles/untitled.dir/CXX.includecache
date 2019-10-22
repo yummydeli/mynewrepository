@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ming/git_yummy/mynewrepository/learning/l4/main.cpp
+iostream
+-
+timer.h
+/home/ming/git_yummy/mynewrepository/learning/l4/timer.h
+
+/home/ming/git_yummy/mynewrepository/learning/l4/timer.h
+chrono
+-
+iostream
+-
+

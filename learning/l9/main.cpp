@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-    VideoCapture inputVideo(0);
+    VideoCapture inputVideo("/dev/v4l/by-path/pci-0000:00:14.0-usb-0:2:1.0-video-index0");
     if (!inputVideo.isOpened())
     {
         cout << "Could not open the input video: " << endl;

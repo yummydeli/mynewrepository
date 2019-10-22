@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/ming/git_yummy/learning/l5/main.cpp" "/home/ming/git_yummy/learning/l5/cmake-build-debug/CMakeFiles/l5.dir/main.cpp.o"
+  "/home/ming/git_yummy/mynewrepository/learning/l5/main.cpp" "/home/ming/git_yummy/mynewrepository/learning/l5/cmake-build-debug/CMakeFiles/l5.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

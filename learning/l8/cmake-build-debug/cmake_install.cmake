@@ -1,4 +1,4 @@
-# Install script for directory: /home/ming/git_yummy/learning/l8
+# Install script for directory: /home/ming/git_yummy/mynewrepository/learning/l8
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/ming/git_yummy/learning/l8/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/ming/git_yummy/mynewrepository/learning/l8/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

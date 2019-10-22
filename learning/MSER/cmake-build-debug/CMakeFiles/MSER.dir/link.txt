@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/MSER.dir/main.cpp.o  -o MSER 

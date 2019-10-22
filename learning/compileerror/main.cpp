@@ -1,4 +1,18 @@
+//#include <iostream>
 //
-// Created by ming on 2019/10/21.
-//
+//int main() {
+//    std::cout << "Hello, World!" << std::endl;
+//    return 0;
+//}
+#include <cassert>
+#include <type_traits>
+template <typename T>
+void lyxnb(T v)
+{
+    static_assert(std::is_same<T, int>::value, "T is not int !!!");
+}
 
+int main()
+{
+    lyxnb(1.);
+}

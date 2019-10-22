@@ -1,0 +1,4 @@
+Cannot generate into /home/ming/git_yummy/mynewrepository/homework2/proportion
+It is already used for project /home/ming/git_yummy/learning/l6
+
+Please either delete it manually or select another generation directory

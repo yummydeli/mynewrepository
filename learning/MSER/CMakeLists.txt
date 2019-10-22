@@ -1,0 +1,16 @@
+cmake_minimum_required(VERSION 2.8)
+project( Opencv_test )
+find_package( OpenCV REQUIRED )
+include_directories( ${OpenCV_INCLUDE_DIRS})
+include_directories("${PROJECT_SOURCE_DIR}")
+include_directories(${PROJECT_SOURCE_DIR}/include)
+
+
+#add_executable( Opencv_test  main.cpp)
+#add_executable(Opencv_test test.cpp)
+#add_executable(Opencv_test modify.cpp)
+#add_executable(Opencv_test modify2.cpp)
+#add_executable(Opencv_test RGBvalue.cpp)
+#add_executable(Opencv_test finaltest.cpp)
+add_executable(Opencv_test armor.cpp)
+target_link_libraries( Opencv_test ${OpenCV_LIBS} )
